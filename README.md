@@ -1,7 +1,9 @@
-# Aplikasi-Login
-Sebuah aplikasi dengan fitur login.
+15 Juni 2021
 
-Alur Fitur Login:
-1. Memasukkan email dan password
-2. Memvalidasi masukan.
-3. Menampilkan halaman hone.
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+
+  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+
+  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
+
+  * Belajar tipe data koleksi, seperti list, set, dan map.
